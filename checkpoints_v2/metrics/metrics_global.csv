@@ -1,0 +1,1 @@
+epoch,phase,loss,loss_plain,nll,ece,acc,precision_macro,recall_macro,f1_macro,precision_weighted,recall_weighted,f1_weighted,mAP

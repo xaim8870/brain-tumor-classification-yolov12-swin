@@ -1,0 +1,5 @@
+class_id,class_name,precision,recall,f1,support
+0,glioma,1.0,1.0,1.0,161
+1,meningioma,1.0,1.0,1.0,109
+2,no_tumor,1.0,1.0,1.0,96
+3,pituitary,1.0,1.0,1.0,122

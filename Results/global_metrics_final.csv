@@ -1,0 +1,2 @@
+accuracy,precision_macro,recall_macro,f1_macro,precision_weighted,recall_weighted,f1_weighted,auc_macro_ovr,auc_weighted_ovr,nll
+1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.015115561483991138

@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs & outputs
+logs/
+*.log
+
+# ML artifacts (usually huge)
+runs/
+weights/
+checkpoints/
+outputs/
+wandb/
+mlruns/
+
+# Data (don't push datasets)
+data/
+datasets/
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Secrets
+.env
+*.key
+*.pem
